@@ -732,8 +732,6 @@
       <costs>
         <cost name="pts" typeId="points" value="220"/>
       </costs>
-      <entryLinks>
-      </entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <conditionGroups>
@@ -779,8 +777,6 @@
       <costs>
         <cost name="pts" typeId="points" value="140"/>
       </costs>
-      <entryLinks>
-      </entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <conditions>
@@ -1083,8 +1079,6 @@
       <costs>
         <cost name="pts" typeId="points" value="140"/>
       </costs>
-      <entryLinks>
-      </entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <conditions>
@@ -1184,8 +1178,6 @@
       <costs>
         <cost name="pts" typeId="points" value="390"/>
       </costs>
-      <entryLinks>
-      </entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <conditions>
@@ -1223,7 +1215,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink name="Auric Runemaster" id="2aea-13c0-87ad-8293" hidden="false" import="true" targetId="e481-ed26-4b12-6d8c" type="selectionEntry">
+    <entryLink name="Auric Runemaster" id="2aea-13c0-87ad-8293" hidden="true" import="true" targetId="e481-ed26-4b12-6d8c" type="selectionEntry">
       <costs>
         <cost name="pts" typeId="points" value="160"/>
       </costs>
@@ -1280,7 +1272,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink name="Battlesmith" id="5cb5-c4cc-fca7-c7cd" hidden="false" import="true" targetId="96fa-b44e-22b0-18c7" type="selectionEntry">
+    <entryLink name="Battlesmith" id="5cb5-c4cc-fca7-c7cd" hidden="true" import="true" targetId="96fa-b44e-22b0-18c7" type="selectionEntry">
       <costs>
         <cost name="pts" typeId="points" value="110"/>
       </costs>
@@ -1337,7 +1329,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink name="Doomseeker" id="323e-f743-e765-0c27" hidden="false" import="true" targetId="d35c-5ba4-683b-5abe" type="selectionEntry">
+    <entryLink name="Doomseeker" id="323e-f743-e765-0c27" hidden="true" import="true" targetId="d35c-5ba4-683b-5abe" type="selectionEntry">
       <costs>
         <cost name="pts" typeId="points" value="100"/>
       </costs>
@@ -1394,7 +1386,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink name="Grimwrath Berzerker" id="9d53-99ed-29c2-05f6" hidden="false" import="true" targetId="3f59-9a71-1698-69b5" type="selectionEntry">
+    <entryLink name="Grimwrath Berzerker" id="9d53-99ed-29c2-05f6" hidden="true" import="true" targetId="3f59-9a71-1698-69b5" type="selectionEntry">
       <costs>
         <cost name="pts" typeId="points" value="110"/>
       </costs>
@@ -1451,7 +1443,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink name="Vulkite Berzerkers with Bladed Slingshields" id="6862-a264-31e1-ea0b" hidden="false" import="true" targetId="739e-96dd-aa50-0544" type="selectionEntry">
+    <entryLink name="Vulkite Berzerkers with Bladed Slingshields" id="6862-a264-31e1-ea0b" hidden="true" import="true" targetId="739e-96dd-aa50-0544" type="selectionEntry">
       <costs>
         <cost name="pts" typeId="points" value="150"/>
       </costs>
@@ -1476,7 +1468,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink name="Vulkite Berzerkers with Fyresteel Weapons" id="cf45-0f65-6ff0-c67d" hidden="false" import="true" targetId="103e-164c-1969-fcc5" type="selectionEntry">
+    <entryLink name="Vulkite Berzerkers with Fyresteel Weapons" id="cf45-0f65-6ff0-c67d" hidden="true" import="true" targetId="103e-164c-1969-fcc5" type="selectionEntry">
       <costs>
         <cost name="pts" typeId="points" value="130"/>
       </costs>
@@ -1584,7 +1576,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink name="Magmic Battleforge" id="7bdb-8229-e6f3-95a8" hidden="false" import="true" targetId="d13e-081f-63c5-4e75" type="selectionEntry">
+    <entryLink name="Magmic Battleforge" id="7bdb-8229-e6f3-95a8" hidden="true" import="true" targetId="d13e-081f-63c5-4e75" type="selectionEntry">
       <costs>
         <cost name="pts" typeId="points" value="0"/>
       </costs>
@@ -1612,7 +1604,6 @@
       </constraints>
       <entryLinks>
         <entryLink name="Manifestation Lores" id="59bc-cbaf-ee72-cfc0" collective="false" flatten="true" hidden="false" import="true" targetId="748f-5d65-2d45-95c5" type="selectionEntryGroup"/>
-        <entryLink name="Manifestation Lores" id="41ff-0a77-9909-6da7" collective="false" flatten="true" hidden="false" import="true" targetId="e2ab-505b-5346-eeb5" type="selectionEntryGroup"/>
       </entryLinks>
       <modifiers>
         <modifier field="hidden" type="set" value="false">
